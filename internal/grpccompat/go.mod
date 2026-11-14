@@ -1,6 +1,6 @@
 module storj.io/drpc/internal/grpccompat
 
-go 1.17
+go 1.24
 
 require (
 	github.com/improbable-eng/grpc-web v0.14.0
@@ -14,7 +14,7 @@ require (
 require (
 	github.com/desertbit/timer v0.0.0-20180107155436-c41aec40b27f // indirect
 	github.com/golang/protobuf v1.5.0 // indirect
-	github.com/klauspost/compress v1.10.3 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/mwitkow/go-conntrack v0.0.0-20190716064945-2f068394615f // indirect
 	github.com/rs/cors v1.8.0 // indirect
 	golang.org/x/net v0.0.0-20190311183353-d8887717615a // indirect
